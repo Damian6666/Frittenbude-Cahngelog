@@ -1,20 +1,41 @@
-Nach dem Motto "Back to the Roots" haben wir begonnen den Server umzustellen:
-
+Nach dem Motto "Back to the Roots" und "Looten oder Bluten" haben wir begonnen den Server umzustellen:
 
 Loottable in allen Bereichen angepasst!
-Bauloot erhöht, Medizinloot erhöht, Militärloot angepasst, Müll im Allgemeinen gesenkt!
+⦁	Bauloot erhöht!
+⦁	Medizinloot erhöht!
+⦁	Militärloot angepasst!
+⦁	Lootmüll im Allgemeinen gesenkt!
+⦁	Zombieloot an deren "letzten Beruf" angepasst!
 
-Zombieloot wurde angepasst!
-
-Traiderverkaufsoptionen und Kaufoptionen angepasst:
-Sachen zum kaufen wurden entfernt wie zb. Metallrohre die müsst ihr jz finden!
-Waffen und Munition die in der Frittenbude waren hinzugefügt!
+Traderverkaufsoptionen und Kaufoptionen angepasst:
+⦁	bestimmte Sachen zum Kaufen wurden entfernt (zb. Metallrohre)
+⦁	Waffen und Munition, welche in die Frittenbude gebracht wurden, wurden hinzugefügt!
+⦁	Nach Preisklasse (von günstig bis teuer) sortiert
 
 TakeBloodscript hinzugefügt:
-Ihr habt jz die Möglichkeit von Toten AI´s mit einem leeren Bloodbag blut abzuzapfen! Nutzt sie!!!
-
-Sachen für das Upgraden von Fahrzeugen angepasst:
-Armored Suv, Kamaz und KamazOpen angepasst!!!
-Weitere Fahrzeuge folgen.
+⦁	Mithilfe eines leeren Bloodbags könnt ihr toten AI's Blut abnehmen und euch selbst geben! Nutzt es ruhig!
 
 Schrott auf den Straßen erhöht!
+Titelbild angepasst!
+
+Sachen für das Upgraden von einigen Fahrzeugen angepasst (der Logik entsprechend):
+
+	Armored Suv
+1.	1x Buch Offroad Performance 	| 4x Reifen | 1x Motorteil | 1x Zweitaktöl | 1x 2inch Rohr
+2.	1x Buch Fahrzeugwartung 	| 2x Metallteile | 2x Metallwand | 2x Panzersperre
+3.	1x Buch Gepäckablage 		| 2x Metallteile | 2x Zelt | 2x Nägel
+4.	1x Buch Benzintank 		| 2x Treibstofftankteil | 2x Klebeband | 2x Nägel
+
+	Kamaz
+1.	1x Buch Offroad Performance 	| 6x Reifen | 1x Motorteile | 1 Zweitaktöl | 1x 2inch Rohr
+2.	1x Buch Fahrzeugwartung 	| 2x Nägel | 4x Wellblechzaun | 2x Panzersperre
+3.	1x Buch Gepäckablage		| 2x Metallteile | 4x Holzkiste | 2x Nägel | 2x 1inch Rohr
+4.	1x Buch Benzintank 		| 2x Treibstofftankteile | 2x Klebeband | 2x Nägel
+
+	KamazOpen
+1.	1x Buch Offroad Performance 	| 6x Reifen | 1x Motorteile | 1 Zweitaktöl | 1x 2inch Rohr
+2.	1x Buch Fahrzeugwartung 	| 2x Nägel | 4x Wellblechzaun | 2x Panzersperre
+3.	1x Buch Gepäckablage 		| 2x Metallteile | 4x Holzkiste | 2x Nägel | 2x 1inch Rohr
+4.	1x Buch Benzintank 		| 2x Treibstofftankteile | 2x Klebeband | 2x Nägel
+
+⦁	Weitere Fahrzeuge folgen...
