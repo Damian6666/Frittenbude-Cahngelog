@@ -1,3 +1,20 @@
+Changelog 12.02.2020
+Folgene Dinge haben wir verändert:
+
+Safemanagement eingefügt!
+⦁	Safebesitzer können jetzt andere Spieler (ähnlich wie bei der Tür und dem Plotpol) in ihren Safe eintragen!
+⦁	Spieler können aber nur eingetragen werden, wenn der Safe GEÖFFNET ist!
+
+Datenbank bekam neue Aufgaben!
+⦁	Wild platzierte Sachen werden nun auch nach 30 Tagen von der Datenbank gelöscht!
+⦁	Autos, dessen Schlüssel verloren gingen, werden jetzt täglich um kurz vor 8:00 Uhr morgens geöffnet und bei Nichtbenutzung nach 3 Tagen gelöscht!
+⦁	Wild gespawnte Fahrzeuge werden nun ebenfalls bei Nichtbenutzung nach 3 Tagen gelöscht!
+⦁	Schäden an Bauteilen sind nun ebenfalls sichtbar!
+
+Maintain bearbeitet!
+⦁	Das letzte maintainen wird nun im Plot Hud angezeigt!
+______________________________________________________________________________________________________________________________________
+
 Changelog 24.01.2020
 Wir haben die Erweiterungen von den erweiterbaren Autos in den Verkauf (nur zum verkaufen!)eingefügt, damit ihr dafür mehr Geld bekommt!
 Dazu zählen unter anderem folgene Fahrzeuge:
