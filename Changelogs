@@ -42,6 +42,7 @@ Datenbank bekam neue Aufgaben!
 ⦁	Autos, dessen Schlüssel verloren gingen, werden jetzt täglich um kurz vor 8:00 Uhr morgens geöffnet und bei Nichtbenutzung nach 3 Tagen gelöscht!
 ⦁	Wild gespawnte Fahrzeuge werden nun ebenfalls bei Nichtbenutzung nach 3 Tagen gelöscht!
 ⦁	Schäden an Bauteilen sind nun ebenfalls sichtbar!
+⦁	Tresore und Schließkasetten sind vom Plot ausgenommen!
 
 Maintain bearbeitet!
 ⦁	Das letzte maintainen wird nun im Plot Hud angezeigt!
