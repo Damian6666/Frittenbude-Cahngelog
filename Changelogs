@@ -1,34 +1,106 @@
+Changelog 16.04.2021
+
+Long long is her wo ma wos im Changelog gschriebn hoben.
+Vüls hot sich vaendat mitn Epoch.... ach scheiße ihr könnt ja kein Dialekt lesen also nochmal.
+Lang lang ist her, dass wir im Changelog was geschrieben haben.
+Vieles hat sich verändert mit dem Epoch 1.0.7 Update. Ohhh Gott wo sollen wir denn nur anfangen?
+Ich glaub ich fang einfach mal mit den Fahrzeugen an aber zuerst einmal ein großes Dankeschön an Airwaves Man (Epoch DEV) und Helion 4 (Epoch Modler) für ihre großartige Arbeit bei diesem Update.
+Auch ein großes Dankeschön an unsere Community, die uns mit vielen Tests und Feedback geholfen haben! 
+Generell sind sehr viele Fahrzeuge jetzt upgradebar. Teilweise auch gepanzerte Fahrzeuge wie z.B. LAV. 
+Auch die Helikopter haben jetzt Aufwertungsstufen.
+
+Neue Fahrzeuge: 
+				In verschiedenen Varianten Reperatur- und Munitionstruck ohne Spezialfähigkeiten aber dafür mit eigenen Besonderheiten.
+				Der Munitionstruck hat aufgewertet 150 Waffenplätze und der Reperaturtruck hat aufgewertet 600 Itemplätze.
+				Bei den LKW´s gibt es eine generelle Neuheit und zwar haben alle den selben Inventar/Waffen/Rucksack Platz.
+				Dies wiederum bedeutet es kommt jetzt nicht mehr darauf an, welcher der Beste ist, sondern auf die persönliche Vorliebe.
+				Zwei neue V3s sind auch am Start und zwar einmal ohne irgentwas, ist aner dafür gedacht, dass Scripter ihn z.B als Containertransporter verwenden können
+				Ein stark gepanzenter V3S, der zwar nicht upgradbar ist, dafür aber verflucht viel aushält. 
+				Neue Skins für die Fahrzeuge, wie WinterCamo und Rustystyle kommen auch echt geil zur Geltung.
+				Ein MTVR ohne Plane aber dafür mit rostigen Metallspitzen vorne dran wurde auch von Helion 4 modelliert und hinzugefügt.
+				Soweit haben wir es eigentlich mit den LKW´s.
+
+				Dann haben wir den Jeep und 2 verschiedene Busse.
+				Von Overwatch die Nissans mit überarbeiteten Models, welche dafür Sorgen das sie nicht bei sofortigem Blickkontakt in Flammen aufgehen XD.
+				Zudem haben wir von Helion 4 von den Origins Fahrzeugen den Scrap APC bekommen.
+				Der Minicooper hat seinen Weg ins Epoch gefunden.
+				Ein schwarzer Hummer ist auch dazu gekommen. Leider wird er von "Nichtfahrern" noch als "Hüpfer" gesehen. Bei Fahrern selbst ist alles in Ordnung.
+				Ein weiterer SUV Armored ist dazu gekommen. Er hat zwar weniger Panzerung, aber das gleiche Inventar und anstelle einer M134 eine.
+				Soweit war es das auch mit den Fahrzeugen.
+				
+Helikopter:		
+				Wie schon erwähnt haben alle Helikopter Aufwertungsstufen.
+				Auch bei den Helis (z.B bei der "Banane" alias CH-47) gibt es jetzt verschieden Farben wie Schwarz oder Grün.
+				Eine weitere Neuheit ist der MTVR-Bird, der das pendant zum Pragacopter von Origins ist. Ein wirklich gut gelungenes Teil von Helion 4.
+				Desweiteren, (dies betrifft allerdings nur Admins) wurde die DZE varianten von Vehikeln durch Vehikel ersetzt, welche ohne Munition spawnt. Dies wiederum bedeutet, dass 
+				gefahrlos Helikotper wie die Hellcat oder die KA-60 ins Spiel bringen kann. Dafür sind wir Airwaves Man wirklich sehr dankbar.
+				
+Boote:			
+				Hier hat sich nun nicht wirklich was verändert, außer einer Neuheit, die ich mehr als alles andere herzlichst begrüße.
+				(Trommelwirbel bitte!) DIE MNS DAISY! Auch hier hat Helion 4 sich selbst übertroffen und uns dieses U-boot zur verfügung gestellt.
+				Ihr könnt euch garnicht ausmalen, was ich (Nightmare) dadurch schon für Missionsideen habe, daher freut euch auf weitere Missionen von mir. (Muhahaha)
+
+Soweit war es eigentlich das Neueste von den Fahrzeugen. Ich weiß, dass ich nicht alles aufgelistet habe, aber da würde ich wohl noch weiteren Wochen hier sitzen und nur schreiben,
+bei dem ganzen Stuff, der allein bei den Fahrzeugen neu dazu gekommen ist.
+Also geh ich dann mal weiter und werde jetzt auf die anderen Neuheiten eingehen. Hier hat sich nämlich der Dev, dessen Namen ja schön öfters gefallen ist (Airwaves Man), wirklich viel Mühe gemacht.
+Er hat nämlich bei den verschieden Eigentümern von Mods oder auch Addons um Erlaubnis gebeten ihre Sachen, sprich Waffen, Skins, ect, ins Epoch mit einzubinden.
+Und siehe da, viele von Ihnen, haben ja gesagt und somit konnten viele neue Waffen und Skins (wie z.B. die ACR Waffen oder die Stalker Skins.) ins Epoch integriert mit werden.
+Somit gibt es auch noch so vieles mehr was ihr Entdecken könnt! Vielen lieben Dank dafür an alle Eigentümern die ihre Zustimmung gegeben haben!
+
+Was gibt es noch Neues bei Epoch 1.0.7... hmm... achja! 
+
+NEUE BAUELEMENTE:
+				Die von mir und Asche in unserem Livestream gezeigten Mauern ala Originsstyle, welche nur aus Holz und Metall bestehen, wurde vom Dev im Spiel nun verwendbar gemacht, ebenso wurden bestehende,
+				ungenutzte Loot-Objekte hinzugefügt.
+				Desweiteren haben wir Dreiecksmauer aus Holz erhalten, Glasböden, sowie 4er Böden aus Holz und Metall, dazu noch Stützen aus Metall und Holz.
+				Ein Zugbrücke, welche auch echt geil ist!
+				Jede Menge Dekokram, welchen man Bauen kann, nur muss jeder Serverbesitzer das selbst zum Craften oder im Loot hinzufügen.
+ 				Es gibt noch weitere Elemente aber ich will euch ja nicht den ganzen Spass wegnehmen, selbst was herauszufinden.
+
+Ein weiterer Punkt was Neu bei Epoch ist, das Script ZSC (das sogenannte "Coin-System") wurde komplett ins Epoch integriert und muss nur aktiviert werden was mega nice ist.
+Beim Storage selbst hat sich auch einiges getan z.B kann man jetzt alles an Safes, Lockboxen, Holzkisten oder Waffenkisten upgraden!
+Auch ist es möglich Rucksäcke zu upgraden, allerdings ist das nicht standartmäßig beim Craften dabei, sondern muss von jedem Serverbesitzer indviduell möglich gemacht werden, durch Loottable oder man
+packt es in den Missionsloot. Es gibt da einige Möglichkeiten, ich kann mich selbst noch nicht entscheiden.
+
+So genug von Epoch direkt, jetzt mal direkt zu unserem Server:
+Ich fang mal mit den Scripten an:
+
+WAI (Missions), ESSV3(Spawnscript), LocateVehicle, Towingscript, Takeblood, der Markplatz, DZAI, die Clickaction und zum Schluss das Plotscript.
+
+Bei den meisten scripten muss ich nichts zu sagen, ist eigentlich ja alles soweit bekannt.
+Bei der WAI ist es so, dass sie noch geupdatet wird, sprich sie wird noch angepasst auf das 107 Update.
+Durch die Clickaction habe ich verschieden Sachen zum Craften hinzugefügt wie Muniton, den großen Safe und den Diamantenkoffer. Weitere Sachen werden noch folgen.
+Jetzt zum Plotscript, ich sag es gleich es wird keine Liste kommmen, die euch zeigt welcher Stuff benötigt wird, aber ich gebe euch was anderes:
+
+Stufe 0 Grundplot 	75 Bauteile		20m Radius 	 11m Höhe
+Stufe 1	 			100 Bauteile	25m Radius   12m Höhe
+Stufe 2  			125 Bauteile 	30m Radius   13m Höhe
+So geht das weiter bis von Stufe 9 auf 10 da erhöt sich der Radius wieder um 5m aber die Bauteile von 300 auf 400.	
+
+Ja wir haben noch die Random-Patrouille, dieses mal aber mit einem Helikopter und einer AN2 mit Gatling, welche gut gegen euch feuert. (vor allem gegen Ratte *hust*)
+Loot wurde wieder von uns euch entsprechend angepasst.
+Wir habe auch wieder unsere Custom-Trader mit ihren eigenen Cities.
+
+Übrigens:
+Fast alles, was auf dem Server an Gebäuden hinzugefügt worden ist (Trader-Cities, Camps, etc.), wurde liebevoll und in stundenlanger Arbeit von Ascheadler gebaut.
+Ein große DANKE auch an dich Asche für deine tolle Arbeit hier am Server!
+
+Was wir noch am Server verändert? Die Rezepte zum Upgraden von Fahrzeugen wird noch verändert. Da diese aber so zahlreich sind dauert das noch ein wenig.
+Neue sachen zum Craften werden noch hinzugefügt und noch ein paar Kleinigkeiten auf die ich zum jetzigen Zeitpunkt noch nicht eingehen will.
+
+So, nun zum Schluss wie üblich; Wir haben weiterhin den Auto-Sammelplatz, das Newbiecamp und dergleichen wie gehabt. Ebenso liebevoll von Asche erbaut.
+
+Wenn noch weiter Fragen sein sollten, schreibt uns einfach im TS am und wir reden darüber.
+____________________________________________________________________________________________________________________________________________________
+
 Changelog 03.04.2020
 
 Neue Scripte:
+⦁	Wir haben einen Marktplatz hinzugefügt, mitdem unter den Spielern selbst gehandelt werden kann! Wie, Wo und Was müsst ihr selbst rausfinden^^
+⦁	Wir haben auch noch ein Script hinzugefügt, welches dafür sorgt, dass die hälfte vom Loot eures Fahrzeug dropt, wenn dieses zerstört wird. Der Loot liegt dann um dem zerstörten Fahrzeug herum!
+⦁	Loot wurde, nach Anhörungen mehrerer Spieler, angepasst. Weitere Anpassungen des Loots werden noch folgen.
 
-Wir haben einen Marktplatz hinzugefügt das Spieler zu Spieler handeln können! Wie Wo und Was müsst ihr selbst rausfinden^^
-
-Wir haben auch noch ein Script hinzugefügt welches dafür sorgt das die hälfte vom Loot eures Fahrzeug dropt wenn dieses Zerstört wird, der Loot liegt dan um das zerstörte Fahrzeug herum!
-
-Loot wurde nach anhörungen mehrerer Spieler angepasst weitere anpassungen des Loots wird noch Folgen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+___________________________________________________________________________________________________________________________________________________
 
 Changelog 12.02.2020
 Folgene Dinge haben wir verändert:
