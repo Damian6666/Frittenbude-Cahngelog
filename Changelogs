@@ -24,7 +24,7 @@ Weitere Änderungen:
 ⦁	dayz_maxLocalZombies = 15 runter auf 10 // die maximale Anzahl der Zombies, die ein Spieler pawnen kann
 ⦁	dayz_maxNearByZombies = 30 runter auf 15 // die maximale Anzahl der Zombiemenge um den Spieler herum
 ⦁	dayz_animalDistance = 600 runter auf 400 // der Abstand den die Tiere zum Spieler haben können
-⦁	Der Sperrbereich ist von 1000 m auf 2500m erhöht, solange der Halojump aktiv ist (Abstimmung folgt!)
+⦁	Der Sperrbereich um die Leiche herum ist von 1000 m auf 2500m erhöht, solange der Halojump aktiv ist (Abstimmung folgt!)
 
 Weitere geplante Änderrung in nächster Zeit:
 ⦁	Kleidung in zwei Kategorien (Mann / Frau) aufteilen
