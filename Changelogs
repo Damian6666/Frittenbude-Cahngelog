@@ -1,3 +1,34 @@
+Changelog 19.04.2021
+	
+Rachel war fleißig und hat einiges bearbeitet :D
+
+Hinzugefügt wurde:
+⦁	Glühbirnen können jetzt nun endlich fehlerfrei gecraftet werden
+⦁	HMMWW_DES_MK19_DZE beim FahrzeugHero nur zum Verkauf, beim Superhero Verkauf und Einkauf
+⦁	HMMWV_GPK_M2_WINTER_DZE beim Superhero zum Einkauf und Verkauf
+⦁	Wasserzeichen ist wieder unten links in der Ecke sichtbar
+⦁	Autosammelplatz in die Mission-Blacklist, damit dort keine Missionen mehr spawnen
+⦁	Kleine Bearbeitungen bei Tradermarkern und Rechtschreibungen
+
+Entfernt wurde:
+⦁	UH1H_WINTER_DZE (Wintertarn) im Einkauf und Verkauf
+⦁	UH1H_WINTER_DZE (Wintertarn) aus dem Mission-Loot
+⦁	Überflüssige Meldungen der roten Schrift für mehr Übersicht
+⦁	Antonov (Airpatrol), es bleiben aber weiterhin (ERSTMAL) 2 Airpatrols
+⦁	20Rnd_9x39_SP5_VSS aus der Kategorie Assault Rifle entfernt
+⦁	20Rnd_762x51_B_SCAR aus der Kategorie Assault Rifle entfernt
+⦁	20Rnd_762x51_SB_SCAR aus der Kategorie Assault Rifle entfernt
+
+Weitere Änderungen:
+⦁	dayz_maxGlobalPlants = 500 runter auf 250 // die Anzahl der generierten Pflanzen auf Chernarus
+⦁	dayz_maxLocalZombies = 15 runter auf 10 // die maximale Anzahl der Zombies, die ein Spieler pawnen kann
+⦁	dayz_maxNearByZombies = 30 runter auf 15 // die maximale Anzahl der Zombiemenge um den Spieler herum
+⦁	dayz_animalDistance = 600 runter auf 400 // der Abstand den die Tiere zum Spieler haben können
+⦁	Der Sperrbereich ist von 1000 m auf 2500m erhöht, solange der Halojump aktiv ist (Abstimmung folgt!)
+
+Weitere geplante Änderrung in nächster Zeit:
+⦁	Kleidung in zwei Kategorien (Mann / Frau) aufteilen
+______________________________________________________________________________________________________________________________________________________________________
 Changelog 16.04.2021
 
 Long long is her wo ma wos im Changelog gschriebn hoben.
